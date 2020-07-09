@@ -1,0 +1,29 @@
+.coloredRed {
+    background-color: red;
+}
+.coloredGreen {
+    background-color: greenyellow;
+}
+.cross {
+    text-decoration: line-through;
+}
+.fat {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+table {
+    width: 500px; height: 500px;
+    border: 1px solid black;
+    margin: auto;
+}
+td {
+    font-size: 30px;
+    padding: 9px px;
+    border: 1px solid black;
+    text-align: center;
+    Width: 100px;
+}
